@@ -29,7 +29,6 @@ Plane is controlled by mouse, his position is being adjusted to Y position of a 
 *manager for spawning obstacles and powerups*
 
 #### - CanvasMain
-
 #### - AudioManager
 
 #### - REQUIRED IN SCENE
