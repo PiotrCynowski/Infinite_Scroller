@@ -31,5 +31,5 @@ Plane is controlled by mouse, his position is being adjusted to Y position of a 
 #### - CanvasMain
 #### - AudioManager
 
-#### - REQUIRED IN SCENE
+Required in scene
 *Main Camera with MainCamera tag*
