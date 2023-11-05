@@ -2,7 +2,8 @@
 The game was created using Unity Engine.
 
 *gameplay*
-![alt text](https://github.com/PiotrCynowski/Infinite_Scroller/blob/master/Gameplay.png?raw=true)
+
+![alt text](https://github.com/PiotrCynowski/Infinite_Scroller/blob/master/pic/Gameplay.png?raw=true)
 
 #### Main scene directory:
 Assets/Scenes/Main.unity
@@ -10,7 +11,8 @@ Assets/Scenes/Main.unity
 for game tools go to Testing/UtilsTools
 
 *example of utils*
-![alt text](https://github.com/PiotrCynowski/Infinite_Scroller/blob/master/utilsExample.png?raw=true)
+
+![alt text](https://github.com/PiotrCynowski/Infinite_Scroller/blob/master/pic/utilsExample.png?raw=true)
 
 To use the tools, the game must be running and the player with the Player Interaction Collision script should have a Player tag
 
